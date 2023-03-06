@@ -1,0 +1,11 @@
+
+{
+  "secret_name": "dw-dev-sftp-test-rsa-key",
+  "region_name": "ap-southeast-2",
+  "bucket_name": "tkmworkforcedata",
+  "s3_key": "Test.txt",
+  "sftp_host": "stsitpswddevaue001.mfe356@stsitpswddevaue001.blob.core.windows.net",
+  "sftp_user": "stsitpswddevaue001.mfe356",
+  "sftp_path": "/path/to/destination"
+}
+
